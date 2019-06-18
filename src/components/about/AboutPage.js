@@ -4,8 +4,7 @@ const AboutPage = () => (
   <div>
     <h2>About</h2>
     <p>
-      This app uses React, Redux, React Router, and man other helpful
-      libraries.
+      This app uses React, Redux, React Router, and man other helpful libraries.
     </p>
   </div>
 );

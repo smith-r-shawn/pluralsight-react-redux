@@ -2,7 +2,7 @@
   "name": "ps-redux",
   "description": "React and Redux Pluralsight course by Cory House",
   "scripts": {
-    "start" : "webpack-dev-server --config webpack.config.dev.js --port 3000"
+    "start": "webpack-dev-server --config webpack.config.dev.js --port 3000"
   },
   "dependencies": {
     "bootstrap": "4.3.1",
@@ -47,7 +47,7 @@
     "rimraf": "2.6.3",
     "style-loader": "0.23.1",
     "webpack": "4.29.6",
-    "webpack-bundle-analyzer": "3.1.0",
+    "webpack-bundle-analyzer": "3.3.2",
     "webpack-cli": "3.3.0",
     "webpack-dev-server": "3.2.1"
   },
@@ -93,7 +93,7 @@
     },
     "root": true
   },
-  "prettier":{
+  "prettier": {
     "trailingComma": "none",
     "tabWidth": 2,
     "semi": true,
